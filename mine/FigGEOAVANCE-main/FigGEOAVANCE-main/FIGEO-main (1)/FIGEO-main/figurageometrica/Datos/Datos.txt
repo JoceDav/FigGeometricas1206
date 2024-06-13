@@ -1,0 +1,5 @@
+Datos: Figura seleccionada: Cuadrado, 
+Sus datos son:
+Longitud del lado: 5
+
+
